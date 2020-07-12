@@ -47,9 +47,9 @@ namespace LogicalQuestionDotNet
         {
             int[] MyArray = new int[] { 1, 2, 3, 4, 5 };
 
-            for (int i = 0; i < MyArray.Length; i++)
+            for (int i = 0; i < MyArray.Length - 1; i++)
             {
-                for (int j = 0; j < MyArray.Length - 1; j++)
+                for (int j = 0; j < MyArray.Length; j++)
                 {
                     if (MyArray[j] < MyArray[j + 1])
                     {

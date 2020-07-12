@@ -6,7 +6,7 @@ namespace LogicalQuestionDotNet
     {
         static void Main(string[] args)
         {
-            ArrayOperations.iterateArrayElements();
+            ArrayOperations.sortArrayElementsInDesscendingOrder();
         }
     }
 }

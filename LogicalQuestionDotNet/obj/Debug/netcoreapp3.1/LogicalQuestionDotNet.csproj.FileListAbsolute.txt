@@ -1,0 +1,11 @@
+C:\dotnetadp\parac\console\LogicalQuestionDotNet\LogicalQuestionDotNet\bin\Debug\netcoreapp3.1\LogicalQuestionDotNet.exe
+C:\dotnetadp\parac\console\LogicalQuestionDotNet\LogicalQuestionDotNet\bin\Debug\netcoreapp3.1\LogicalQuestionDotNet.deps.json
+C:\dotnetadp\parac\console\LogicalQuestionDotNet\LogicalQuestionDotNet\bin\Debug\netcoreapp3.1\LogicalQuestionDotNet.runtimeconfig.json
+C:\dotnetadp\parac\console\LogicalQuestionDotNet\LogicalQuestionDotNet\bin\Debug\netcoreapp3.1\LogicalQuestionDotNet.runtimeconfig.dev.json
+C:\dotnetadp\parac\console\LogicalQuestionDotNet\LogicalQuestionDotNet\bin\Debug\netcoreapp3.1\LogicalQuestionDotNet.dll
+C:\dotnetadp\parac\console\LogicalQuestionDotNet\LogicalQuestionDotNet\bin\Debug\netcoreapp3.1\LogicalQuestionDotNet.pdb
+C:\dotnetadp\parac\console\LogicalQuestionDotNet\LogicalQuestionDotNet\obj\Debug\netcoreapp3.1\LogicalQuestionDotNet.csprojAssemblyReference.cache
+C:\dotnetadp\parac\console\LogicalQuestionDotNet\LogicalQuestionDotNet\obj\Debug\netcoreapp3.1\LogicalQuestionDotNet.AssemblyInfoInputs.cache
+C:\dotnetadp\parac\console\LogicalQuestionDotNet\LogicalQuestionDotNet\obj\Debug\netcoreapp3.1\LogicalQuestionDotNet.AssemblyInfo.cs
+C:\dotnetadp\parac\console\LogicalQuestionDotNet\LogicalQuestionDotNet\obj\Debug\netcoreapp3.1\LogicalQuestionDotNet.dll
+C:\dotnetadp\parac\console\LogicalQuestionDotNet\LogicalQuestionDotNet\obj\Debug\netcoreapp3.1\LogicalQuestionDotNet.pdb

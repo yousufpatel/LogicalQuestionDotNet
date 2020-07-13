@@ -42,6 +42,15 @@ namespace LogicalQuestionDotNet
             }
         }
 
+        public static void ReverseArray()
+        {
+            int[] MyArray = new int[] { 1,2,3,4};
+            for (int i = MyArray.Length - 1; i>=0;i--)
+            {
+                Console.WriteLine(MyArray[i]);
+            }
+        }
+
     
     }
 }

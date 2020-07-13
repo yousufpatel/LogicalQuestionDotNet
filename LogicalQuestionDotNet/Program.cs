@@ -6,8 +6,8 @@ namespace LogicalQuestionDotNet
     {
         static void Main(string[] args)
         {
-            SingleTon Instance = SingleTon.GetSingleTon();
-            Instance.GetString();
+            string name = "yousuf";
+            Console.WriteLine(name.StringUpperCaseExtensionMethod());
         }
     }
 }

@@ -42,24 +42,6 @@ namespace LogicalQuestionDotNet
             }
         }
 
-        /* Sort Array Elements In Desscending Order*/
-        public static void sortArrayElementsInDesscendingOrder()
-        {
-            int[] MyArray = new int[] { 1, 2, 3, 4, 5 };
-
-            for (int i = 0; i < MyArray.Length - 1; i++)
-            {
-                for (int j = 0; j < MyArray.Length; j++)
-                {
-                    if (MyArray[j] < MyArray[j + 1])
-                    {
-                        int temp = MyArray[j];
-                        MyArray[j] = MyArray[j + 1];
-                        MyArray[j + 1] = temp;
-                    }
-                }
-                Console.WriteLine(MyArray[i]);
-            }
-        }
+    
     }
 }

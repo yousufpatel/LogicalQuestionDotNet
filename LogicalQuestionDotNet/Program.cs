@@ -6,7 +6,8 @@ namespace LogicalQuestionDotNet
     {
         static void Main(string[] args)
         {
-            ArrayOperations.sortArrayElementsInDesscendingOrder();
+            SingleTon Instance = SingleTon.GetSingleTon();
+            Instance.GetString();
         }
     }
 }

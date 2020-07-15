@@ -7,7 +7,9 @@ namespace LogicalQuestionDotNet
         static void Main(string[] args)
         {
             string name = "yousuf";
-            Console.WriteLine(name.StringUpperCaseExtensionMethod());
+            System.Console.WriteLine(name.StringUpperCaseExtensionMethod());
+           // CSharpBasic.CSharpDataTypesExmaple();
+            CSharpBasic.CSharpTypeCastingExmaple();
         }
     }
 }
